@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "title": "Title",
+    "content": "Content",
+    "audiences": [
+      { "all": {} }
+    ],
+    "validUntil": "2024-07-31T06:01:32Z"
+  }
+]
