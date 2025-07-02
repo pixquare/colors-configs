@@ -1,3 +1,17 @@
 {
-  "latestVersion": "1.0.0"
+  "latestVersion": "1.0.0",
+  "scheduledDiscounts": [
+    {
+      "id": "firstDiscount",
+      "code": "lovely_user",
+      "percentage": 30,
+      "waitTime": 1209600
+    },
+    {
+      "id": "secondDiscount",
+      "code": "awesome_user",
+      "percentage": 50,
+      "waitTime": 2419200
+    }
+  ]
 }
