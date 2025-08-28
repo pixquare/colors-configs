@@ -7,5 +7,16 @@
       { "all": {} }
     ],
     "validUntil": "2024-07-31T06:01:32Z"
+  },
+  {
+    "id": "2",
+    "title": "-- AUGUST SALE --",
+    "content": "Use code AUGUST for 30% off now.\n(This event lasts until the end of August)",
+    "actionTitle": "Redeem now",
+    "actionUrl": "pixquare-colors://goTo/purchase?code=AUGUST",
+    "audiences": [
+      { "freeUsers": {} }
+    ],
+    "validUntil": "2025-09-01T23:00:00Z"
   }
 ]
