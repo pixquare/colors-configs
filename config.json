@@ -5,13 +5,13 @@
       "id": "firstDiscount",
       "code": "lovely_user",
       "percentage": 30,
-      "waitTime": 1209600
+      "waitTime": 604800
     },
     {
       "id": "secondDiscount",
       "code": "awesome_user",
       "percentage": 50,
-      "waitTime": 2419200
+      "waitTime": 1209600
     }
   ]
 }
