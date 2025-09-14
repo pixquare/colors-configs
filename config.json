@@ -1,5 +1,8 @@
 {
-  "latestVersion": "1.1.0",
+  "latestVersion": "1.2.0",
+  "boolFlags": {
+    "timeWeeklyChallenge": true
+  },
   "scheduledDiscounts": [
     {
       "id": "firstDiscount",
