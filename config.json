@@ -4,6 +4,9 @@
     "timeWeeklyChallenge": true,
     "promoCode": true
   },
+  "stringFlags": {
+    "promoCodeMaxVersion": "1.3.2"
+  },
   "scheduledDiscounts": [
     {
       "id": "firstDiscount",
