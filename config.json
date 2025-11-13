@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.4.1",
+  "latestVersion": "1.4.2",
   "boolFlags": {
     "timeWeeklyChallenge": true,
     "promoCode": true
   },
   "stringFlags": {
-    "promoCodeMaxVersion": "1.4.1"
+    "promoCodeMaxVersion": "1.4.2"
   },
   "scheduledDiscounts": [
     {
