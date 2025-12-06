@@ -5,7 +5,7 @@
     "promoCode": true
   },
   "stringFlags": {
-    "promoCodeMaxVersion": "1.4.3"
+    "promoCodeMaxVersion": "1.5.0"
   },
   "scheduledDiscounts": [
     {
