@@ -9,17 +9,6 @@
     "validUntil": "2024-07-31T06:01:32Z"
   },
   {
-    "id": "3",
-    "title": "-- SEPTEMBER SALE - LAST CHANCE --",
-    "content": "Use code SEPTEMBER for 30% off now.\n(This event lasts until the end of September)",
-    "actionTitle": "Redeem now",
-    "actionUrl": "pixquare-colors://goTo/purchase?code=SEPTEMBER",
-    "audiences": [
-      { "freeUsers": {} }
-    ],
-    "validUntil": "2025-10-01T23:00:00Z"
-  },
-  {
     "id": "4",
     "title": "-- BLACK FRIDAY SALE --",
     "content": "Use code BLACK_FRIDAY for 50% off.\nGet your full access now before this discount is gone!!!",
@@ -29,5 +18,16 @@
       { "freeUsers": {} }
     ],
     "validUntil": "2025-12-01T23:00:00Z"
+  },
+  {
+    "id": "5",
+    "title": "-- CHRISTMAS SALE --",
+    "content": "Use code CHRISTMAS for 50% off.\nGet your full access now before this discount is gone!!!",
+    "actionTitle": "Redeem now",
+    "actionUrl": "pixquare-colors://goTo/purchase?code=CHRISTMAS",
+    "audiences": [
+      { "freeUsers": {} }
+    ],
+    "validUntil": "2026-01-02T23:00:00Z"
   }
 ]
