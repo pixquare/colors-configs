@@ -21,10 +21,10 @@
   },
   {
     "id": "5",
-    "title": "-- CHRISTMAS SALE --",
-    "content": "Use code CHRISTMAS for 50% off.\nGet your full access now before this discount is gone!!!",
+    "title": "-- NEW YEAR SALE --",
+    "content": "Use code '2026' for 30% off.\nGet your full access now before this discount is gone!!!",
     "actionTitle": "Redeem now",
-    "actionUrl": "pixquare-colors://goTo/purchase?code=CHRISTMAS",
+    "actionUrl": "pixquare-colors://goTo/purchase?code=2026",
     "audiences": [
       { "freeUsers": {} }
     ],
