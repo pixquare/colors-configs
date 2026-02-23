@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.4.2",
+  "latestVersion": "1.6.0",
   "boolFlags": {
     "timeWeeklyChallenge": true,
     "promoCode": true
